@@ -1,0 +1,7 @@
+import vs export
+받아온다. vs 건네준다.
+
+<CSS 적용>
+ex.module.css 파일 만들기
+App.js에는 import styles from "./ex.module.css
+적용하고 싶은 element에 className={.styles.title} // class이름 랜덤생성
